@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Money Keeper</string>
+    <string name="choose_category">Choose category:</string>
+    <string name="enter_count">Enter value:</string>
+</resources>
