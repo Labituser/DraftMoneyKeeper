@@ -1,2 +1,0 @@
-# DraftMoneyKeeper
-Save your money
